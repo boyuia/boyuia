@@ -1,5 +1,5 @@
-Hey there, it's the CEO of Weno! We can't wait to see what you talk about in your Weno Topics!
-<img width="250" alt="image" src="https://github.com/boyuia/boyuia/assets/170777576/a5328484-10fc-4a53-b8c4-8e28049f80e3">
+Hey there, it's the CEO of Weno! We can't wait to see what you talk about in your Weno Topics! <img width="250" alt="image" src="https://github.com/boyuia/boyuia/assets/170777576/abaa9a3a-45d0-4847-994f-f9785a6a4bd9">
+
 
 
 <!---
